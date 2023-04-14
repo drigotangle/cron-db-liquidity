@@ -1,0 +1,16 @@
+{
+  "name": "cron-db-liquidity",
+  "version": "1.0.0",
+  "description": "Example of creating a function that runs as a cron job using the serverless `schedule` event",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "moment": "^2.29.4",
+    "mongodb": "^5.2.0"
+  },
+  "devDependencies": {
+    "serverless-plugin-typescript": "^2.1.4",
+    "typescript": "^5.0.4"
+  }
+}
